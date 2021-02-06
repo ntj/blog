@@ -1,0 +1,6 @@
+@import url(./styles-light.css);
+@import url(./styles-dark.css) (prefers-color-scheme: dark);
+img {
+    width: 32%;
+    box-shadow: none;
+}

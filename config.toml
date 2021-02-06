@@ -1,0 +1,13 @@
+languageCode = "en-us"
+title = "Trust in code"
+theme = "kiera"
+
+[author]
+name = "Antje Kazimiers"
+twitter = "mrs_nextmatch"
+github = "ntj"
+
+[params]
+tagline = "Thoughts on tech by Antje Kazimiers"
+
+
