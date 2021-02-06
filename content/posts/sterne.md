@@ -7,13 +7,13 @@ categories = []
 draft = false
 +++
 Vor nicht allzu langer Zeit habe ich an Quellcode gebastelt, mit dem ich mir Sterne generieren kann, die den Papiersternen
-ähneln, die man aus quadratischem Papier falten kann.
+ähneln, die man aus quadratischem Papier faltet.
 
-Man legt die Ecken des Quadrats diagonal übereinander. Das wiederholt man ein paar Mal, bis ein kleines Dreieck entsteht. Dann schneidet man ein paar Ecken in die Kanten des Dreiecks, faltet es wieder auseinander und erhält einen wunderschönen Stern, der an eine Schneeflocke erinnert.
+Die Ecken des Quadrats werden diagonal übereinander gelegt. Das wiederholt man ein paar Mal, bis ein kleines Dreieck entsteht. Dann schneidet man ein paar Ecken in die Kanten des Dreiecks, faltet es wieder auseinander und erhält einen wunderschönen Stern, der an eine Schneeflocke erinnert.
 
 Das ganze passiert jetzt in Quellcode mit vielen randomisierten Werten, so dass kein Stern dem anderen gleicht.
 
-Hier sind ein paar Ergebnisse:
+Hier sind die Ergebnisse:
 
 
 ![Stern 1](https://github.com/ntj/sandbox/blob/master/img/star2-1.svg?raw=true)
@@ -45,7 +45,7 @@ an verschiedenen Achsen gespiegelt wird, horizontal, vertikal und diagonal.
 So ähnlich wie beim Papierfalten schneide ich nun Ecken aus dem Dreieck heraus. Dafür
 benötige ich die Punkte, die sich innerhalb des Sterns befinden.
 
-So sieht das ganze dann für die obigen Sterne aus:
+So sieht das Ganze dann für die obigen Sterne aus:
 
 
 ![Polygon 1](https://github.com/ntj/sandbox/blob/master/img/polygon-1.svg?raw=true)
@@ -60,7 +60,7 @@ So sieht das ganze dann für die obigen Sterne aus:
 
 
 
-Die zusammengesetzten Sterne lassen sich dann bestimmt gut mit dem Lasercutter
+Die zusammengesetzten Sterne lassen sich bestimmt gut mit dem Lasercutter
 ausschneiden -- für den nächsten Weihnachtsbaum.
 
 
