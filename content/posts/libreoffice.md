@@ -11,7 +11,7 @@ existierenden Repositories hinzuzufügen. "Contribute to Open-Source-Projekten" 
 
 ## Django
 
-Richtig aktiv wurde ich zum ersten Mal nachdem ich den Talk "[Your Webframework Needs You](https://www.youtube.com/watch?v=LjTRSH0pNBo&list=PL2NFhrDSOxgXXUMIGOs8lNe2B-f4pXOX-&index=28)" von Carlton Gibson auf der
+Richtig aktiv wurde ich zum ersten Mal, nachdem ich den Talk "[Your Webframework Needs You](https://www.youtube.com/watch?v=LjTRSH0pNBo&list=PL2NFhrDSOxgXXUMIGOs8lNe2B-f4pXOX-&index=28)" von Carlton Gibson auf der
 DjangoCon2019 gesehen hatte. Sein Elan hat mich begeistert und mir wurde klar, wie wichtig es
 ist, selbst Quellcode beizusteuern, wenn man ein Open-Source-Projekt gerne weiternutzen möchte.
 
