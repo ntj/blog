@@ -15,7 +15,7 @@ Richtig aktiv wurde ich zum ersten Mal nachdem ich den Talk "[Your Webframework 
 DjangoCon2019 gesehen hatte. Sein Elan hat mich begeistert und mir wurde klar, wie wichtig es
 ist, selbst Quellcode beizusteuern, wenn man ein Open-Source-Projekt gerne weiternutzen möchte.
 
-Nach der Konferenz gab es auch gleich einen Sprint, auf dem ich sofort loslegen konnte.
+Nach der Konferenz fand ein [Sprint](https://en.wikipedia.org/wiki/Hackathon#Code_sprints) statt, auf dem ich sofort loslegen konnte.
 Es gab Beginner's Tickets, von denen ich eins auswählte und ich habe an dem Tag auch einen
 kleinen Pull-Request veröffentlicht.
 
