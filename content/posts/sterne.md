@@ -15,15 +15,15 @@ Das ganze passiert jetzt in Quellcode mit vielen randomisierten Werten, so dass 
 
 Hier sind die Ergebnisse:
 
-![Stern 1](https://github.com/ntj/sandbox/blob/master/img/star2-1.svg?raw=true)
-![Stern 2](https://github.com/ntj/sandbox/blob/master/img/star2-2.svg?raw=true)
-![Stern 3](https://github.com/ntj/sandbox/blob/master/img/star2-3.svg?raw=true)
-![Stern 3](https://github.com/ntj/sandbox/blob/master/img/star2-4.svg?raw=true)
-![Stern 3](https://github.com/ntj/sandbox/blob/master/img/star2-5.svg?raw=true)
-![Stern 1](https://github.com/ntj/sandbox/blob/master/img/star2-6.svg?raw=true)
-![Stern 1](https://github.com/ntj/sandbox/blob/master/img/star2-7.svg?raw=true)
-![Stern 1](https://github.com/ntj/sandbox/blob/master/img/star2-8.svg?raw=true)
-![Stern 1](https://github.com/ntj/sandbox/blob/master/img/star2-9.svg?raw=true)
+![Stern](https://github.com/ntj/sandbox/blob/master/img/star2-1.svg?raw=true)
+![Stern](https://github.com/ntj/sandbox/blob/master/img/star2-2.svg?raw=true)
+![Stern](https://github.com/ntj/sandbox/blob/master/img/star2-3.svg?raw=true)
+![Stern](https://github.com/ntj/sandbox/blob/master/img/star2-4.svg?raw=true)
+![Stern](https://github.com/ntj/sandbox/blob/master/img/star2-5.svg?raw=true)
+![Stern](https://github.com/ntj/sandbox/blob/master/img/star2-6.svg?raw=true)
+![Stern](https://github.com/ntj/sandbox/blob/master/img/star2-7.svg?raw=true)
+![Stern](https://github.com/ntj/sandbox/blob/master/img/star2-8.svg?raw=true)
+![Stern](https://github.com/ntj/sandbox/blob/master/img/star2-9.svg?raw=true)
 
 
 Der Quellcode ist auf [github](https://github.com/ntj/sandbox) veröffentlicht. Eine Stelle möchte ich erklären:
@@ -47,15 +47,15 @@ benötige ich die Punkte, die sich innerhalb des Sterns befinden.
 So sieht das Ganze dann für die obigen Sterne aus:
 
 
-![Polygon 1](https://github.com/ntj/sandbox/blob/master/img/polygon-1.svg?raw=true)
-![Polygon 2](https://github.com/ntj/sandbox/blob/master/img/polygon-2.svg?raw=true)
-![Polygon 3](https://github.com/ntj/sandbox/blob/master/img/polygon-3.svg?raw=true)
-![Polygon 3](https://github.com/ntj/sandbox/blob/master/img/polygon-4.svg?raw=true)
-![Polygon 3](https://github.com/ntj/sandbox/blob/master/img/polygon-5.svg?raw=true)
-![Polygon 1](https://github.com/ntj/sandbox/blob/master/img/polygon-6.svg?raw=true)
-![Polygon 1](https://github.com/ntj/sandbox/blob/master/img/polygon-7.svg?raw=true)
-![Polygon 1](https://github.com/ntj/sandbox/blob/master/img/polygon-8.svg?raw=true)
-![Polygon 1](https://github.com/ntj/sandbox/blob/master/img/polygon-9.svg?raw=true)
+![Polygon](https://github.com/ntj/sandbox/blob/master/img/polygon-1.svg?raw=true)
+![Polygon](https://github.com/ntj/sandbox/blob/master/img/polygon-2.svg?raw=true)
+![Polygon](https://github.com/ntj/sandbox/blob/master/img/polygon-3.svg?raw=true)
+![Polygon](https://github.com/ntj/sandbox/blob/master/img/polygon-4.svg?raw=true)
+![Polygon](https://github.com/ntj/sandbox/blob/master/img/polygon-5.svg?raw=true)
+![Polygon](https://github.com/ntj/sandbox/blob/master/img/polygon-6.svg?raw=true)
+![Polygon](https://github.com/ntj/sandbox/blob/master/img/polygon-7.svg?raw=true)
+![Polygon](https://github.com/ntj/sandbox/blob/master/img/polygon-8.svg?raw=true)
+![Polygon](https://github.com/ntj/sandbox/blob/master/img/polygon-9.svg?raw=true)
 
 
 
@@ -63,12 +63,12 @@ Die zusammengesetzten Sterne lassen sich bestimmt gut mit dem Lasercutter
 ausschneiden -- für den nächsten Weihnachtsbaum.
 
 
-![Star 1](https://github.com/ntj/sandbox/blob/master/img/star1-1.svg?raw=true)
-![Star 2](https://github.com/ntj/sandbox/blob/master/img/star1-2.svg?raw=true)
-![Star 3](https://github.com/ntj/sandbox/blob/master/img/star1-3.svg?raw=true)
-![Star 4](https://github.com/ntj/sandbox/blob/master/img/star1-4.svg?raw=true)
-![Star 5](https://github.com/ntj/sandbox/blob/master/img/star1-5.svg?raw=true)
-![Star 6](https://github.com/ntj/sandbox/blob/master/img/star1-6.svg?raw=true)
-![Star 7](https://github.com/ntj/sandbox/blob/master/img/star1-7.svg?raw=true)
-![Star 8](https://github.com/ntj/sandbox/blob/master/img/star1-8.svg?raw=true)
-![Star 9](https://github.com/ntj/sandbox/blob/master/img/star1-9.svg?raw=true)
+![Stern](https://github.com/ntj/sandbox/blob/master/img/star1-1.svg?raw=true)
+![Stern](https://github.com/ntj/sandbox/blob/master/img/star1-2.svg?raw=true)
+![Stern](https://github.com/ntj/sandbox/blob/master/img/star1-3.svg?raw=true)
+![Stern](https://github.com/ntj/sandbox/blob/master/img/star1-4.svg?raw=true)
+![Stern](https://github.com/ntj/sandbox/blob/master/img/star1-5.svg?raw=true)
+![Stern](https://github.com/ntj/sandbox/blob/master/img/star1-6.svg?raw=true)
+![Stern](https://github.com/ntj/sandbox/blob/master/img/star1-7.svg?raw=true)
+![Stern](https://github.com/ntj/sandbox/blob/master/img/star1-8.svg?raw=true)
+![Stern](https://github.com/ntj/sandbox/blob/master/img/star1-9.svg?raw=true)
