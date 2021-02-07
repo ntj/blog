@@ -15,7 +15,6 @@ Das ganze passiert jetzt in Quellcode mit vielen randomisierten Werten, so dass 
 
 Hier sind die Ergebnisse:
 
-
 ![Stern 1](https://github.com/ntj/sandbox/blob/master/img/star2-1.svg?raw=true)
 ![Stern 2](https://github.com/ntj/sandbox/blob/master/img/star2-2.svg?raw=true)
 ![Stern 3](https://github.com/ntj/sandbox/blob/master/img/star2-3.svg?raw=true)
