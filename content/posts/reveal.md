@@ -1,0 +1,55 @@
++++
+title = "Präsentationen in HTML erstellen"
+date = 2021-02-07T18:13:27+01:00
+images = []
+tags = []
+categories = []
+draft = true
++++
+Vor einigen Jahren habe ich einen Vortrag gesehen, in dem der Redner seine Folien mit [reveal.js](https://revealjs.com/) erstellt hatte. Reveal.js ist ein JavaScript-Framework. welches es erlaubt, die Folien für eine Präsentation in HTML zu schreiben. Die gesamte Präsentation ist quasi in einer einzigen HTML-Datei zu finden. Das finde ich großartig. Da ich Erfahrung mit LaTeX und Markdown habe, ist mir die Idee, Dokumente aus Textdateien zu generieren sehr vertraut.
+
+Ausgehend von der offiziellen Dokumentation habe ich mir ein [Reveal.JS Starter Kit](https://gitlab.com/ntj/my-reveal) gebaut. Es gibt hierfür auch eine [Demo](https://ntj.gitlab.io/my-reveal/). So sehen die Folien aus:
+
+![Screenshot](/reveal0.png)
+![Screenshot](/reveal1.png)
+![Screenshot](/reveal3.png)
+![Screenshot](/reveal2.png)
+
+In der Datei [index.html](https://gitlab.com/ntj/my-reveal/-/blob/master/public/index.html) werden die einzelnen Folien folgendermaßen hinterlegt:
+
+```html
+    <section data-background-color="rebeccapurple">
+      <h2 class="r-fit-text">Unordered Lists</h2>
+      <ul>
+          <li class="fragment">Some</li>
+          <li class="fragment">interesting</li>
+          <li class="fragment">facts</li>
+      </ul>
+    </section>
+```
+Mit HTML-Standardelementen wie `<h2></h2>` und `<ul></ul>` können also Folienüberschriften und
+Aufzählungen generiert werden, auch die Einbindung von Bildern ist möglich:
+
+```html
+<section data-background-color="DarkSlateGray">
+    <h2>Pictures</h2>
+    <div class="slide-pictures-container few">
+        <div class="slide-picture">
+            <img src="files/tick.jpg" /><br/>
+            <div class="image-caption">
+                CC BY-NC 2.0 NIH Image Gallery
+            </div>
+        </div>
+        <div class="slide-picture">
+            <img src="files/zebrafish.jpg" /><br/>
+            <div class="image-caption">
+                CC BY-NC 2.0 NIH Image Gallery
+            </div>
+        </div>
+    </div>
+</section>
+```
+Mit zusätzlichen HTML-Attributen wie `fragment` können einzelne Teile der Präsentation auch nach
+einem Klick hinzugefügt werden, so wie es in LibreOffice und PowerPoint möglich ist.
+
+Ich glaube, dieses Framework sollte bekannter werden. Es bietet die ideale Umgebung, Schülerinnen und Schülern HTML und CSS nahe zu bringen. Präsentationen werden im Schulalltag und darüber hinaus sehr oft erstellt. Ich denke, RevealJS bietet einen guten Einstieg in die Welt der Programmierung, weil damit der Umgang mit dem Editor, mit der Kommandozeile und einer Ausgabe, die hier dann im Browser stattfindet, geübt werden kann.

@@ -9,5 +9,6 @@ github = "ntj"
 
 [params]
 tagline = "Thoughts on tech by Antje Kazimiers"
+description = "Thoughts on tech by Antje Kazimiers"
 
 staticDir = ["static"]
