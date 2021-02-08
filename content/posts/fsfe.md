@@ -1,16 +1,16 @@
 +++
 title = "Die Mailingliste der FSFE"
-date = 2021-02-07T21:04:20+01:00
+date = 2021-02-08
 images = []
 tags = []
 categories = []
 draft = true
 +++
-Um das Jahr 2010 herum habe ich geschaut, was über das Studium hinaus in Sachen Informatik und Technik noch so passiert. In dieser Zeit hatte ich auch die deutschsprachige Mailingliste der
-[Free Software Foundation Europe](https://fsfe.org/) abonniert. Die Diskussionen drehen sich um alle möglichen Open-Source Tools und auf die Frage "Kennt ihr ein Tool, dass das und das macht" gibt es so gut wie immer hilfreiche eine Antwort. Manchmal werden die Diskussion auch politischer und helfen, seine eigene Argumentation bzgl. Freier Software zu schärfen. Die Diskutanten pflegen dabei einen guten Stil und Antworten sind oft auch sehr ausführlich.
+Um das Jahr 2010 herum habe ich geschaut, was über das Studium hinaus in Sachen Informatik und Technik noch so passiert. In dieser Zeit hatte ich auch die [deutschsprachige Mailingliste]((https://lists.fsfe.org/mailman/listinfo/fsfe-de)) der
+[Free Software Foundation Europe](https://fsfe.org/) abonniert. Die Diskussionen drehen sich um rechtliche, technische und auch ethische Aspekte von Freier Software. Auch auf die Frage "Kennt ihr ein Tool, dass das und das macht?" gibt es so gut wie immer eine hilfreiche Antwort.
+
+Manchmal werden die Diskussion auch politischer und helfen, die eigene Argumentation in Sachen Freier Software und Open Source zu schärfen. Die Diskutanten pflegen dabei einen guten Stil und Antworten sind oft auch sehr ausführlich.
 
 ![FSFE](/fsfe.png)
 
-Das gute alte Medium Email ist nicht totzukriegen. Eine ganz angenehme Abwechslumg zu den Kurzinfos auf Twitter & Co.
-
-[Deutschsprachige Diskussionen und Neuigkeiten zu Freier Software](https://lists.fsfe.org/mailman/listinfo/fsfe-de)
+Das gute alte Medium Email wird immer noch rege genutzt. Und längere Ausführungen im Textformat sind ein ganz angenehme Abwechslumg zu den Kurzinfos auf Twitter & Co.

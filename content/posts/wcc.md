@@ -1,6 +1,6 @@
 +++
 title = "Der Women's Coding Circle"
-date = 2021-02-07T21:54:55+01:00
+date = 2021-02-08
 images = []
 tags = []
 categories = []
@@ -26,4 +26,6 @@ Manchmal habe ich im Anschluss an die Treffen noch Fragen per Email erhalten. Di
 ![Jupyter](/jupyter.png)
 
 Den Club gibt es immer noch und er ist auch gar nicht auf den Janelia Research Campus beschränkt. Zum [Hacktoberfest](https://hacktoberfest.digitalocean.com/) kann man auch zu den
-Club-Repos Code beisteuern und ein T-Shirt gewinnen! Also liebe Tech-Frauen in Deutschland und der Welt, wenn ihr Lust habt, aus dem Women's Coding Circle ein internationales Projekt zu machen, schreibt mir! Es ist großartig, sich mit anderen Frauen über Programmierung auszutauschen.
+Club-Repos Code beisteuern und ein T-Shirt gewinnen!
+
+Also liebe Tech-Frauen in Deutschland und der Welt, wenn ihr Lust habt, aus dem Women's Coding Circle ein internationales Projekt zu machen, schreibt mir. Es ist großartig, sich mit anderen Frauen über Programmierung auszutauschen.
