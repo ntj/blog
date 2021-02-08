@@ -1,6 +1,6 @@
 +++
 title = "Code beisteuern zu Open Source Projekten"
-date = 2021-02-05T20:06:45+01:00
+date = 2021-02-05
 images = []
 tags = []
 categories = []
@@ -28,7 +28,7 @@ Django schreibe, logge ich mich immer mal bei Discord ein und wenn ich eine klas
 Fazit: Auch wenn ich kein Django Developer im eigentlichen Sinne geworden bin, weil ich
 keinen Quellcode zu Django beigesteuert habe, hatte der Aufruf auf der DjangoCon einen
 großen Effekt auf mich und ich glaube, ich konnte und kann der Django Community aushelfen,
-in dem ich in ihren Kanälen dazu beitrage, Einsteiger und Mainstreamfragen nicht unbeantwortet zu lassen.
+in dem ich in ihren Kanälen dazu beitrage, Einsteiger- und Mainstreamfragen nicht unbeantwortet zu lassen.
 
 ## LibreOffice
 
