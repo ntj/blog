@@ -6,7 +6,8 @@ tags = []
 categories = []
 draft = false
 +++
-Um das Jahr 2010 herum habe ich geschaut, was über das Studium hinaus in Sachen Informatik und Technik noch so passiert. Seit dieser Zeit abonniere ich die [deutschsprachige Mailingliste]((https://lists.fsfe.org/mailman/listinfo/fsfe-de)) der
+Um das Jahr 2010 herum habe ich geschaut, was über das Studium hinaus in Sachen Informatik und Technik noch so passiert. Seit dieser Zeit abonniere ich die
+[deutschsprachige Mailingliste](https://lists.fsfe.org/mailman/listinfo/fsfe-de) der
 [Free Software Foundation Europe](https://fsfe.org/).
 
 Die Diskussionen drehen sich um rechtliche, technische und ethische Aspekte freier Software. Auch auf die Frage "Kennt ihr ein Tool, welches das und das tut?" gibt es so gut wie immer eine hilfreiche Antwort.
