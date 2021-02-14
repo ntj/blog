@@ -19,3 +19,5 @@ Alles in allem war es eine gute Erfahrung. Ich kam ganz gut mit, straucheln und 
 Ein Teil der Videos ist bereits auf Youtube veröffentlicht, über das Folgende bin ich wirklich happy --- Übersetzung ist auch ein Weg, Barrieren zu nehmen, nämlich Sprachbarrieren. Aus dem Grund bin ich froh, dass wir dieses Video ins Deutsche übersetzen konnten:
 
 {{< youtube H2_tU4z5xyg >}}
+
+_This is day 8 of my [#100daystoffload](https://100daystooffload.com/) series, a challenge to write 100 blog posts in a year._

@@ -59,3 +59,5 @@ Fragen zu beantworten. Auch wenn man eine super simple Frage stellt, ist es sch√
 
 Und am allerwichtigsten:
 **Aufrufe zur Mithilfe haben einen gro√üen Effekt.**
+
+_This is day 2 of my [#100daystoffload](https://100daystooffload.com/) series, a challenge to write 100 blog posts in a year._
