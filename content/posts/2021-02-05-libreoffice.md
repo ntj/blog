@@ -3,7 +3,7 @@ title = "Code beisteuern zu Open Source Projekten"
 date = 2021-02-05
 images = []
 tags = []
-categories = []
+categories = ["Hacking"]
 draft = false 
 +++
 Schon seit geraumer Zeit versuche ich, nicht nur Quellcode zu schreiben oder meine Repositories als freie Software verfügbar zu machen, sondern auch Quellcode zu großen,

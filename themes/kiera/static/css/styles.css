@@ -17,3 +17,12 @@ img[alt=Screenshot] {
     margin-left: 0.1em;
     margin-bottom: 0.2em;
 }
+
+aside ul li {
+    display: inline !important;
+}
+
+aside ul .date {
+    float: right !important;
+    margin-right: 2em !important;
+}
