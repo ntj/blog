@@ -18,6 +18,13 @@ img[alt=Screenshot] {
     margin-bottom: 0.2em;
 }
 
+img[alt=Forest] {
+    width: 20%;
+    float: right;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
 aside ul li {
     display: inline !important;
 }
