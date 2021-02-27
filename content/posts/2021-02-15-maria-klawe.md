@@ -27,4 +27,4 @@ Ich glaube mich zu erinnern, dass sie damals sagte, dass es besser ist, unabhän
 
 Obwohl mir die Sichtweise, dass Frauen etwas richtig gut können -- selbst wenn das eine stereotypische Vorstellung ist -- auch gut gefällt.
 
-_This is day 11 of my [#100daystoffload](https://100daystooffload.com/) series, a challenge to write 100 blog posts in a year._
+_This is day 11 of my [#100daystooffload](https://100daystooffload.com/) series, a challenge to write 100 blog posts in a year._

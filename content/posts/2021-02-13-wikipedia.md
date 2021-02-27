@@ -31,4 +31,4 @@ Nun habe ich mir schon seit Langem nicht mehr die Zeit genommen, einen Artikel b
 
 und: [Seneca Rocks](https://en.wikipedia.org/wiki/Seneca_Rocks)!
 
-_This is day 9 of my [#100daystoffload](https://100daystooffload.com/) series, a challenge to write 100 blog posts in a year._
+_This is day 9 of my [#100daystooffload](https://100daystooffload.com/) series, a challenge to write 100 blog posts in a year._

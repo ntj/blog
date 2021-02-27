@@ -20,4 +20,4 @@ Ein Teil der Videos ist bereits auf Youtube veröffentlicht, über das Folgende 
 
 {{< youtube H2_tU4z5xyg >}}
 
-_This is day 8 of my [#100daystoffload](https://100daystooffload.com/) series, a challenge to write 100 blog posts in a year._
+_This is day 8 of my [#100daystooffload](https://100daystooffload.com/) series, a challenge to write 100 blog posts in a year._
