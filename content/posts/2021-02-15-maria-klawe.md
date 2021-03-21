@@ -3,7 +3,7 @@ title = "Maria Klawe"
 date = 2021-02-15
 images = []
 tags = []
-categories = ["Women"]
+categories = ["Women", "Great Minds"]
 draft = false
 +++
 Dieser Blogartikel ist Maria Klawe gewidmet.
