@@ -14,6 +14,6 @@ Das Buch begegnete mir auch an einem der vielen Abende, die ich in meiner Zeit i
 
 Mehr noch als im Film geht es im Buch über die besondere Situation der Hillbillys, wie Leute aus Kentucky in Ohio genannt werden. Kentucky und die Appalachen sind eine sehr arme Region mit hoher Arbeitslosigkeit und den Problemen, die damit einhergehen, dass sich die Menschen zum Beispiel keine Krankenversicherung leisten können.
 
-Nach allem, was in den darauffolgenden Jahren passiert ist, trotzdessen: wenn ich versuche, zu verstehen, warum Donald Trump im Jahr 2016 zum Präsidenten gewählt wurde, dann denke ich an das Buch "Hillbilly Elegy". Auch an ein paar Artikel in Zeitungen, an Filme wie "The Florida Project" und Dokumentationen über das heutige Amerika. Aber vor allem an dieses Buch.
+Nach allem, was in den darauffolgenden Jahren passiert ist, trotzdessen: wenn ich versuche, zu verstehen, warum Donald Trump im Jahr 2016 zum Präsidenten gewählt wurde, dann denke ich an das Buch "Hillbilly Elegy". Auch an ein paar Artikel in Zeitungen und an Dokumentationen über das heutige Amerika. Aber vor allem an dieses Buch.
 
 _This is day 24 of my [#100daystooffload](https://100daystooffload.com/) series, a challenge to write 100 blog posts in a year._
