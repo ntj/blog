@@ -17,7 +17,7 @@ Du brauchst kein
 - Fahrrad mit Fahrrad-Share Diensten
 - Auto mit Car-Sharing Diensten
 
-Ich finde -- von der Idee her -- beide Ansätze sehr spannend. Ich weiß, dass insb. der 1. auch sehr problembehaftet ist, sei es wegen dem angespannten Wohnungsmarkt in Städten oder etablierten Geweben wie das Taxigewerbe. Aber Meetup als Plattform, um einen Kreis von Menschen um ein Partikularinteresse zu versammeln finde ich genial, seit ich zum ersten Mal davon hörte.
+Ich finde -- von der Idee her -- beide Ansätze sehr spannend. Ich weiß, dass insb. der 1. auch sehr problembehaftet ist, sei es wegen dem angespannten Wohnungsmarkt in Städten und wegen etablierten Geweben wie das Taxigewerbe. Aber Meetup als Plattform, um einen Kreis von Menschen um ein Partikularinteresse zu versammeln finde ich genial, seit ich zum ersten Mal davon hörte.
 
 Bestimmt findet man noch andere Sätze wie diese, die durch Webtechnologien möglich sind. Man denke nur an die Möglichkeiten von Videokonferenzsystemen, bis hin zu der Möglichkeit, ganze Kongresse im Onlineraum abzuhalten. Die Onlinebegnung ersetzt nicht die Reale, aber dieses Jahr war ich auf meinen ersten Chemnitzer Linuxtagen und es war meine erste FOSDEM, um also einen Einblick in Communities und die Konferenzwelt zu erhalten, ist online für mich ideal.
 
