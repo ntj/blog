@@ -3,7 +3,7 @@ title = "Vorträge übersetzen auf Kongressen"
 date = 2021-02-12
 images = []
 tags = []
-categories = ["Community"]
+categories = ["Community","Language"]
 draft = false
 +++
 Auf Tech-Konferenzen war ich nun schon eine ganze Menge: Chaos Communication Congress, Datenspuren, DrupalCon, OSCON, DjangoCon.
