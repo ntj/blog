@@ -8,9 +8,9 @@ Vor einigen Jahren wurde ich auf einige Tech-Konferenzen geschickt und dort konn
 
 Oft gab es die Möglichkeit, rund um das Thema Diversität und insbesondere um das Thema Frau sein in der IT zusammen zu kommen. Dass ich mich nicht an eine solche Veranstaltung auf der Fluent und der VS Live! erinnern kann, kann nur daran liegen, dass ich nicht explizit danach geschaut habe. Auf der SPTechCon hab ich mein erstes Frauentreffen auf einer Konferenz erlebt.
 
-Es fand zur Mittagszeit statt und es gab ein Panel. Es wurde sehr offen über diskriminierende Situationen gesprochen. Es war für mich eine absolut neue Situation, mitzuerleben, dass Frauen über diese Erfahrungen in der realen Welt miteinander sprechen. Bestimmt hatte ich damals schon Artikel darüber gelesen.
+Es fand zur Mittagszeit statt und es gab ein Panel. Es wurde sehr offen über diskriminierende Situationen gesprochen. Es war für mich absolut neu, mitzuerleben, dass Frauen über diese Erfahrungen in der realen Welt miteinander sprechen. Bestimmt hatte ich damals schon Artikel darüber gelesen.
 
-Aufgefallen war mir damals auch, dass es sehr starke und selbstbewusste Frauen in der Community gibt, die anerkannt waren und Vorträge gegeben haben, aber nur einige Wenige.
+Aufgefallen war mir auch, dass es sehr starke und selbstbewusste Frauen in der Community gibt, die anerkannt waren und Vorträge gegeben haben, aber nur einige Wenige.
 
 Anders war das auf der DrupalCon im Jahr 2017. Frauen waren hier viel aktiver an der Konferenz beteiligt, ob nun als Vortragende oder einfach nur Fragen stellend. Es gab sogar eine Frauen-Party! 🙂
 
