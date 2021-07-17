@@ -2,7 +2,7 @@
 title: "Recording your thoughts"
 date: 2021-05-31
 draft: false
-categories: ["Podcasts"]
+categories: ["Podcasts", "EN"]
 ---
 
 This weekend I came across an episode of the podcast Chaos Radio Express: [Sprechendes Denken](https://cre.fm/cre220-sprechendes-denken).
