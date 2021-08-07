@@ -17,3 +17,5 @@ Ich erinnere mich an eine Situation, als ich mit jemanden sprach und es ging üb
 Aber worin genau liegt da die eigentliche Fehlvorstellung? Er wusste also nicht, wenn wir über Zahl, die wie eine Dezimalzahl aussieht, sprechen, dass wir nicht die Dezimalzahl meinen, sondern die einzelnen Ziffern die Dezimalrepräsentation der entsprechenden Binärzahlen sind.
 
 Ich glaube, solchen Fehlvorstellungen kann man nur mit einem sehr guten Informatikunterricht begegnen. Und der Bezug zur Rechtevergabe in einem Unix-System müsste dann bei der Behandlung der Binärzahlen gezogen werden. Dann ist es logisch, dann ist es verständlich und dann vergisst man es auch nicht mehr so schnell und kann es sich herleiten.
+
+_This is day 51 of my [#100daystooffload](https://100daystooffload.com/) series, a challenge to write 100 blog posts in a year._
