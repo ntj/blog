@@ -1,7 +1,7 @@
 ---
 title: "Hillbilly Elegy"
 date: 2021-03-28
-categories: ["Books"]
+categories: ["Books", "Movies"]
 draft: false
 ---
 Auf Netflix kann man sich derzeit den Film [Hillbilly Elegy](https://de.wikipedia.org/wiki/Hillbilly_Elegy_(Film)) anschauen. Es ist eine Verfilmung des gleichnamigen autobiographischen Romans/Sachbuchs von J.D. Vance.
