@@ -2,7 +2,7 @@
 title: "App Inventor"
 date: 2021-09-12
 draft: false
-categories: ["Programming"]
+categories: ["Programming", "Workshops"]
 ---
 Weiter ging es in den Schüler:innen Workshops mit dem App Inventor. Hier kann man es mit blockbasierte Programmierung so weit bringen, sich sinnvolle Anwendungen für ein mobiles Gerät zu bauen.
 
