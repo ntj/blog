@@ -11,6 +11,6 @@ Irgendwann geht es um eine Welt, in der Spielkarten zum Leben erwacht sind, mite
 
 So ungefähr hab ich das in Erinnerung. Man könnte meinen, er hätte sie einfach anschreien und zutexten können, mit dem, was er ihnen zu sagen hat. Aber vielleicht tut er genau das nicht, weil er Angst davor hat, enttäuscht zu werden, wenn auch das nichts bringt.
 
-ich hatte es ein paar Jahre später noch einmal angefangen, das Buch zu lesen, und konnte es nicht beenden, irgendwie kam ich nicht mehr rein. Wie ist es wohl jetzt, wenn ich es noch einmal versuchen würde?
+ich hatte ein paar Jahre später noch einmal angefangen, das Buch zu lesen, und konnte es nicht beenden, irgendwie kam ich nicht mehr rein. Wie ist es wohl jetzt, wenn ich es noch einmal versuchen würde?
 
 _This is day 69 of my [#100daystooffload](https://100daystooffload.com/) series, a challenge to write 100 blog posts in a year._
