@@ -2,7 +2,7 @@
 title: "The first year with the FSFE Women"
 date: 2021-10-29
 draft: false
-categories: ["Social","Women"]
+categories: ["Social","Women", "FOSS"]
 ---
 The FSFE Women exist for several months now. In April we met for the first time and once in a month since then. Usually we come up with a topic for the upcoming meeting, usually either anything technical or gender-related.
 

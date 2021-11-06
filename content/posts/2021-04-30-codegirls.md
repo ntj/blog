@@ -2,7 +2,7 @@
 title: "Code Girls"
 date: 2021-04-30
 draft: false
-categories: ["Women"]
+categories: ["Women", "Talks"]
 ---
 Vor ein paar Jahren hatte ich das Glück, einen Vortrag von [Liza Mundy](https://de.wikipedia.org/wiki/Liza_Mundy) zu sehen. Liza hat das Buch "Code Girls: The Untold Story of the American Women Code Breakers of World War II" geschrieben. Darin geht es um die Frauen in den USA, die im 2. Weltkrieg als Codebreaker gearbeitet haben. Da die Männer als Soldaten im Krieg dienten, wurden Absolventinnen von Women's Colleges und Frauen, die z. B. als Mathelehrerinnen gearbeitet haben, für diese anspruchsvolle Tätigkeit angeworben.
 
