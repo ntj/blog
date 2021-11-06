@@ -9,8 +9,8 @@ Eines meiner Lieblingsbücher ist "Das Kartengeheimnis" von Jostein Gaarder. Ein
 
 Irgendwann geht es um eine Welt, in der Spielkarten zum Leben erwacht sind, miteinander reden und fröhlich sind. Der Protagonist strandet in dieser Welt und versucht mit den Kartenwesen in Kontakt zu treten. Das klappt auch ein wenig, aber er wundert sich, dass sie sich scheinbar gar nicht dafür interessieren, wo er herkommt. Mit dem, was er ihnen zu erzählen hätte, könnten sie aus ihrer Welt ausbrechen. Aber dazu kommt es nicht, weil sie ihn nichts fragen.
 
-So ungefähr hab ich das in Erinnerung. Man könnte meinen, er hätte sie einfach anschreien und zutexten können, mit dem, was er ihnen zu sagen hat. Aber vielleicht tut er genau das nicht, weil er Angst davor hat, enttäuscht zu werden, wenn auch das nichts bringt.
+So ungefähr hab ich das in Erinnerung. Man könnte meinen, er hätte sie einfach anschreien und zutexten können. Aber vielleicht tat er genau das nicht, weil er Angst davor hatte, enttäuscht zu werden, wenn auch das nichts bringt.
 
-ich hatte ein paar Jahre später noch einmal angefangen, das Buch zu lesen, und konnte es nicht beenden, irgendwie kam ich nicht mehr rein. Wie ist es wohl jetzt, wenn ich es noch einmal versuchen würde?
+Ich hatte ein paar Jahre später noch einmal angefangen, das Buch zu lesen, und konnte es nicht beenden, irgendwie kam ich nicht mehr rein. Wie ist es wohl jetzt, wenn ich es noch einmal versuchen würde?
 
 _This is day 69 of my [#100daystooffload](https://100daystooffload.com/) series, a challenge to write 100 blog posts in a year._

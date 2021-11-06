@@ -1,10 +1,10 @@
 ---
-title: "Mental well-being"
+title: "Strategies to master life"
 date: 2021-10-31
 draft: false
 categories: ["Thoughts"]
 ---
-I am ambitious. I want to be successful in my job and like to have a happy and fullfilling personal life. For a long time, I thought both can be achieved if I just spend enough time on fullfilling my goals.
+I am ambitious. I want to be successful in my job and like to have a happy and fullfilling personal life. For a long time, I thought both can be achieved if I just spend enough time and work hard on fullfilling my goals.
 
 Now I think, mental well-being plays a more important role. Avoiding situations and people, who let you down, trying to build up a network of support, working on inner strength.
 
