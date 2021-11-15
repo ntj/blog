@@ -3,7 +3,7 @@ title = "Wikipedia-Artikel schreiben"
 date = 2021-02-13
 images = []
 tags = []
-categories = ["Community","Language"]
+categories = ["Community","Language", "Platforms"]
 draft = false
 +++
 Seit ~ dem Jahr 2009 nehme ich Debatten darüber wahr, dass Frauen in Wikipedia-Artikeln unterrepräsentiert sind und auch deutlich weniger Frauen als Männer Texte zur Wikipedia beisteuern. Es kann gut sein, dass diese Debatten mich erst auf die Idee brachten, selbst Änderungen an Wikipedia-Artikeln vorzunehmen.
