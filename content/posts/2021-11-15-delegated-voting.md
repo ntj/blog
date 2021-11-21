@@ -3,7 +3,7 @@ title: "Delegated Voting, where is it now?"
 date: 2021-11-15
 draft: false
 
-categories: ["Platforms"]
+categories: ["Platforms", "EN"]
 ---
 Around 2011 I've been to a couple of Chaos Communication Congresses, the annual conferences of the Chaos Computer Club. I was mostly attending talks I think on the sunny side of the spectrum, so what are the new life-changing technologies we can build with code, principles and platform which make new things possible and what is the impact on society.
 

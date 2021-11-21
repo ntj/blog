@@ -2,7 +2,7 @@
 title: "Aphorismen"
 date: 2021-10-25
 draft: false
-categories: ["Language"]
+categories: ["Language", "EN"]
 ---
 Ich mag Aphorismen. Wenn es Eines gibt, welches ich mir wirklich oft gesagt habe, dann ist es:
 

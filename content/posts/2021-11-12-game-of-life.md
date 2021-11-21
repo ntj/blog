@@ -3,7 +3,7 @@ title: "Game of Life"
 date: 2021-11-12
 draft: false
 
-categories: ["Programming"]
+categories: ["Programming", "EN"]
 ---
 Today I implemented [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) with the help of the CMU CS Academy graphics library.
 
