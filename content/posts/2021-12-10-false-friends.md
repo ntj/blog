@@ -1,16 +1,16 @@
 ---
 title: "False Friends"
-date: 2021-12-08
+date: 2021-12-10
 draft: false
 categories: ["Language"]
 ---
-Ich wollte zu Sprache noch ein paar Sachen aufschreiben, dieser Artikel ist über Rechtschreibfehler, die ich häufiger mache, wenn ich englische E-Mails und Texte verfasse. Und ich kann mich nicht erinnern, dass ich gelernt hätte, dass das eine typische Fehlerquelle ist.
+Ich wollte zu Sprache noch ein paar Sachen aufschreiben. Es gibt Rechtschreibfehler, die ich häufiger mache, wenn ich englische E-Mails und Texte verfasse. Und ich kann mich nicht erinnern, dass ich gelernt hätte, dass das eine typische Fehlerquelle ist.
 
 Wörter, die ähnlich klingen, verwechsele ich. Das passiert z.B. bei
 
 * know und now
 * also und although
-* vl. auch noch to und too, wobei das auch ein Flüchtigkeitsfehler sein kann.
+* vl. auch noch to und too, wobei das auch ein Flüchtigkeitsfehler sein könnte.
 
 False friends sind eigentlich etwas anderes, ich denke es sind eher so Wörter wie
 
