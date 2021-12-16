@@ -2,7 +2,7 @@
 title: "Live coding"
 date: 2021-11-26
 draft: false
-categories: ["Programming"]
+categories: ["Programming", "EN"]
 ---
 At OSCON 2018 I saw two ladies I found really impressing. They both held a live coding session, one of them even on a main track! They had much fun while coding, although a whole audience was watching. They made mistakes, they fixed it, talked the whole time while joking.
 

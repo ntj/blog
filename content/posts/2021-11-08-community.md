@@ -2,7 +2,7 @@
 title: "Community"
 date: 2021-11-08
 draft: false
-categories: ["Talks"]
+categories: ["Talks", "Community"]
 ---
 Letztens habe ich unter der Kategorie Talks hier alle Voträge gesammelt, die ich einmal erwähnt und verlinkt habe.
 
