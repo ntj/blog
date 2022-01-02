@@ -1,7 +1,7 @@
 ---
 title: "Wissenschaft"
-date: 2022-01-01
-draft: true
+date: 2022-01-02
+draft: false
 categories: ["Books"]
 ---
 Vor wenigen Tagen habe ich "Die kleinste gemeinsame Wirklichkeit" von Mai Thi Nguyen-Kim zuende gehört.
@@ -12,6 +12,6 @@ Ich möchte die Abschnitte noch einmal hören und mitschreiben, wenn Mai Signifi
 
 Sie regt die Frage an, welche interessanten Debatten wir führen könnten, wenn wir nicht immerzu falsche Behauptungen und Scheinargumente entkräften müssten.
 
-Ein wunderbares Hörbuch, das nächste von ihr liegt schon bereit.
+Ein wunderbares Hörbuch und das Nächste von ihr liegt bei mir schon bereit.
 
 _This is day 96 of my [#100daystooffload](https://100daystooffload.com/) series, a challenge to write 100 blog posts in a year._
